@@ -27,7 +27,7 @@
 
 Gapwise for iOS is the native iPhone client for **[Gapwise](https://gapwise.ca)**, a free and open-source multi-university timetable and campus-intelligence platform.
 
-While the Gapwise web platform supports 7 universities across Canada (U of T, Carleton, TMU, Queen's, Laurier, York, and McMaster), the current native iOS client foundation focuses on the **University of Toronto** (with UTM timetable events and campus coordinate boundaries), with broader multi-university native client expansion planned.
+While the Gapwise web platform supports 11 universities across Canada (U of T, Carleton, TMU, Queen's, Laurier, York, McMaster, Western, Guelph, uOttawa, and Brock), the current native iOS client foundation focuses on the **University of Toronto** (with UTM timetable events and campus coordinate boundaries), with broader multi-university native client expansion planned.
 
 The goal is a real native iOS application rather than a WebView wrapper: navigation, storage, rendering, accessibility, interactions, and platform integration are designed for iPhone while staying aligned with the wider Gapwise repository ecosystem.
 
