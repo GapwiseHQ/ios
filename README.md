@@ -27,7 +27,7 @@
 
 Gapwise for iOS is the native iPhone client for **[Gapwise](https://gapwise.ca)**, a free and open-source multi-university timetable and campus-intelligence platform.
 
-While the Gapwise web platform supports 11 universities across Canada (U of T, Carleton, TMU, Queen's, Laurier, York, McMaster, Western, Guelph, uOttawa, and Brock), the current native iOS client foundation focuses on the **University of Toronto** (with UTM timetable events and campus coordinate boundaries), with broader multi-university native client expansion planned.
+While the Gapwise web platform supports 13 universities across 15 campus models in Canada, including UBC Vancouver and the University of Waterloo, the current native iOS client foundation focuses on the **University of Toronto** (with UTM timetable events and campus coordinate boundaries), with broader multi-university native client expansion planned.
 
 The goal is a real native iOS application rather than a WebView wrapper: navigation, storage, rendering, accessibility, interactions, and platform integration are designed for iPhone while staying aligned with the wider Gapwise repository ecosystem.
 
@@ -145,7 +145,7 @@ Linux cannot validate SwiftUI, the system document picker, Apple security-scoped
 | **[`android`](https://github.com/GapwiseHQ/android)** | Native Kotlin + Jetpack Compose Android client | Android app |
 | **[`ios`](https://github.com/GapwiseHQ/ios)** | Native Swift + SwiftUI iOS client | iOS app |
 | **[`ai`](https://github.com/GapwiseHQ/ai)** | OAuth/MCP layer for explicitly delegated student context and bounded actions | [ai.gapwise.ca](https://ai.gapwise.ca) |
-| **[`data`](https://github.com/GapwiseHQ/data)** | Canonical public University of Toronto campus data, provenance, schemas, validation, and distribution | [data.gapwise.ca](https://data.gapwise.ca) |
+| **[`data`](https://github.com/GapwiseHQ/data)** | Canonical public multi-university campus data, provenance, schemas, validation, and distribution | [data.gapwise.ca](https://data.gapwise.ca) |
 | **[`docs`](https://github.com/GapwiseHQ/docs)** | Canonical public developer documentation | [docs.gapwise.ca](https://docs.gapwise.ca) |
 | **[`status`](https://github.com/GapwiseHQ/status)** | Independent service-health monitoring and incident communication | [status.gapwise.ca](https://status.gapwise.ca) |
 
